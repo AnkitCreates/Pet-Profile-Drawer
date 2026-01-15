@@ -4,8 +4,6 @@
 ![Pet Profile Drawer UI](<https://github.com/AnkitCreates/Pet-Profile-Drawer/blob/main/screenshot/Pet%20Profile%20Drawer.png>)
 
 <!--![Demo](https://github.com/AnkitCreates/Pet-Profile-Drawer/blob/main/Videos/Pet%20Profile%20Drawer%20720.mp4)-->
-https://github.com/AnkitCreates/Pet-Profile-Drawer/blob/main/Videos/Pet%20Profile%20Drawer%20720.mp4
-<video controls src="Videos/Pet Profile Drawer 720.mp4" title="Title"></video>
 
 https://github.com/user-attachments/assets/1f5bf0ff-d901-454f-b238-0364ed4fe7dd
 
