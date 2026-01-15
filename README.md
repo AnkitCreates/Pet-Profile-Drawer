@@ -23,11 +23,15 @@ Install dependencies:
 npm install
 npm run dev
 npx json-server --watch db.json --port 4000
-http://localhost:5173
-http://localhost:4000
 ```
 
-🧱 Architecture
+The app runs on
+- http://localhost:5173
+
+The mock API runs on
+- http://localhost:4000
+
+## 🧱 Architecture
 
 - LeftPanel
     - Lists clients and pets
