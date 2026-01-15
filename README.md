@@ -1,6 +1,7 @@
 # 🐾 Pet Profile Drawer
 
 ![Pet Profile Drawer UI](<screenshot\Pet Profile Drawer.png>)
+![Pet Profile Drawer UI](<https://github.com/AnkitCreates/Pet-Profile-Drawer/blob/main/screenshot/Pet%20Profile%20Drawer.png>)
 
 <video controls src="Videos/Pet Profile Drawer 720.mp4" title="Title"></video>
 
