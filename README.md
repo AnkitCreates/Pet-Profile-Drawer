@@ -27,7 +27,7 @@ http://localhost:5173
 http://localhost:4000
 ```
 
-🧱 Architecture
+## 🧱 Architecture
 
 - LeftPanel
     - Lists clients and pets
