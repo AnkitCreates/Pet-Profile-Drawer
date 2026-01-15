@@ -1,5 +1,9 @@
 # 🐾 Pet Profile Drawer
 
+![Pet Profile Drawer UI](<screenshot\Pet Profile Drawer.png>)
+
+<video controls src="Videos/Pet Profile Drawer 720.mp4" title="Title"></video>
+
 A responsive, accessible Pet Management UI built with **React + TypeScript + React Query**.  
 It allows staff to view and manage pet profiles, including details, photos, vaccinations, grooming history, and bookings.
 
