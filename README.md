@@ -21,6 +21,7 @@ Install dependencies:
 
 ```bash
 npm install
+npm run api
 npm run dev
 npx json-server --watch db.json --port 4000
 ```
