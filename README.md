@@ -34,36 +34,39 @@ npx json-server --watch db.json --port 4000
 ```
 
 The app runs on
-- http://localhost:5173
+
+- <http://localhost:5173>
 
 The mock API runs on
-- http://localhost:4000
+
+- <http://localhost:4000>
 
 ## 🧱 Architecture
 
 - LeftPanel
-    - Lists clients and pets
-    - Search with debounce
-    - Highlights matched substrings
-    - Filters inactive pets
-    - Keyboard accessible
+  - Lists clients and pets
+  - Search with debounce
+  - Highlights matched substrings
+  - Filters inactive pets
+  - Keyboard accessible
 - PetDrawer
-    - Shows selected pet
-    - Contains Actions (Edit, Deactivate)
-    - Displays risk banner for Escaper
+  - Shows selected pet
+  - Contains Actions (Edit, Deactivate)
+  - Displays risk banner for Escaper
 
 - PetTabs
-   - Tab controller (ARIA compliant)
-   - Renders individual tab components
+ - Tab controller (ARIA compliant)
+ - Renders individual tab components
 
 - Tabs (Separated Components)
-    - PetDetails
-    - PhotosTab
-    - VaccinationsTab
-    - GroomingTab
-    - BookingsTab
+  - PetDetails
+  - PhotosTab
+  - VaccinationsTab
+  - GroomingTab
+  - BookingsTab
 
 Each tab is isolated for:
+
 - Maintainability
 - Testability
 - Clear separation of concerns
