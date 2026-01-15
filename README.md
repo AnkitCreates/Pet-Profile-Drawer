@@ -7,6 +7,8 @@
 https://github.com/AnkitCreates/Pet-Profile-Drawer/blob/main/Videos/Pet%20Profile%20Drawer%20720.mp4
 <video controls src="Videos/Pet Profile Drawer 720.mp4" title="Title"></video>
 
+https://github.com/user-attachments/assets/1f5bf0ff-d901-454f-b238-0364ed4fe7dd
+
 A responsive, accessible Pet Management UI built with **React + TypeScript + React Query**.  
 It allows staff to view and manage pet profiles, including details, photos, vaccinations, grooming history, and bookings.
 
